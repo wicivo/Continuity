@@ -14,3 +14,4 @@ An official Forge version of Continuity is not planned at this time due to major
 [Modrinth Page](https://modrinth.com/mod/continuity) \
 [Wiki](https://github.com/PepperCode1/Continuity/wiki) \
 [Discord](https://discord.gg/7rnTYXu)
+ 
